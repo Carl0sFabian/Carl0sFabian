@@ -18,10 +18,10 @@
        </ul>
 <p align="center">
     <span style="display: inline-block;">
-        <img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Carl0sFabian&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Carl0sFabian&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     </span>
     <span style="display: inline-block;">
-        <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carl0sFabian&layout=compact&theme=algolia&langs_count=8"/>
+        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carl0sFabian&layout=compact&theme=algolia&langs_count=8"/>
     </span>
 </p>
     </td>
