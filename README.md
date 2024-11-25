@@ -10,7 +10,6 @@
       <h2> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px">&nbsp;Aʙᴏᴜᴛ Mᴇ</h2>
        <ul>
     <li>🎓 &nbsp; I am a Computer Science student at <a href="https://www.upc.edu.pe">UPC</a></li>
-    <li>👑 &nbsp; I am good at C++, HTML</li>
     <li>🤔 &nbsp; I love learning and creating something new, productive, innovative, and creative</li>
     <li>📚 &nbsp; I’m currently learning: Angular, Python</li>
     <li>🧑‍💻 &nbsp; Outside of tech, 🎞️ I love watching movies, 🎵 listening to music, and 🛫 traveling</li>
